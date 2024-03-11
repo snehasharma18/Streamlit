@@ -1,6 +1,5 @@
 numpy
 pandas
-seaborn==0.7.0
 matplotlib
 plotly
 streamlit
